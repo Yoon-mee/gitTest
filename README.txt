@@ -1,1 +1,1 @@
-github 공부중
+github 공부중 변경
